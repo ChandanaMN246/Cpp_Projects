@@ -8,3 +8,11 @@ The project includes features such as randomly selecting a word from a list of w
 
 Overall, this project demonstrates a practical application of C++ programming concepts, input/output operations, string manipulation, and algorithmic logic.
 
+
+Casion Game
+
+This project is a C++ implementation of a simple casino game where the player bets a certain amount of money and guesses a number between 1 and 10. If the player's guess matches the randomly generated number, they win the amount they bet; otherwise, they lose their bet.
+
+The game includes features such as allowing the player to input their bet amount and guess, generating a random number between 1 and 10, and displaying the result of the game, including the amount won or lost.
+
+Overall, this project demonstrates a practical application of C++ programming concepts, including input/output operations, conditional statements, random number generation, and provides a simple and engaging game for players to enjoy.
