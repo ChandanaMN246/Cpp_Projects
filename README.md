@@ -7,3 +7,4 @@ This project is a C++ implementation of the classic game Hangman. The objective 
 The project includes features such as randomly selecting a word from a list of words, keeping track of the player's progress, displaying the hangman graphic, and allowing the player to input their guesses. The program also provides hints to the player by showing the number of letters in the word and the letters that have already been guessed correctly.
 
 Overall, this project demonstrates a practical application of C++ programming concepts, input/output operations, string manipulation, and algorithmic logic.
+
